@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "fragment": {
+    "title": "Example Fragment", "message": "This is an example message from the example API"
   }
 }
