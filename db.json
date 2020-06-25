@@ -13,5 +13,13 @@
   },
   "fragment": {
     "title": "Example Fragment", "message": "This is an example message from the example API"
-  }
+  },
+  "map" : 
+  [
+    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Grassland"}, {"biome":"Grassland"}, {"biome":"Grassland"}],
+    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Hill"}, {"biome":"Grassland"}, {"biome":"Grassland"}],
+    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Mountain"}, {"biome":"Hill"}, {"biome":"Grassland"}],
+    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Hill"}, {"biome":"Hill"}, {"biome":"Sea"}],
+    [{"biome":"Grassland"}, {"biome":"Grassland"}, {"biome":"Grassland"}, {"biome":"Sea"}, {"biome":"Sea"}]
+  ]
 }
