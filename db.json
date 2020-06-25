@@ -17,7 +17,7 @@
   "map" : [
     [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}],
     [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}],
-    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Mountain"}, "owner":{"name":"Spud's Army", "color":"#0000ff"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}],
+    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Mountain"}, "owner":{"name":"Spud's Army", "color":"0000ff"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}],
     [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Sea"}}, {"biome":{"name":"Sea"}}],
     [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Sea"}}, {"biome":{"name":"Sea"}}]
   ]
