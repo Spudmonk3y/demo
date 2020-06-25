@@ -14,12 +14,11 @@
   "fragment": {
     "title": "Example Fragment", "message": "This is an example message from the example API"
   },
-  "map" : 
-  [
-    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Grassland"}, {"biome":"Grassland"}, {"biome":"Grassland"}],
-    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Hill"}, {"biome":"Grassland"}, {"biome":"Grassland"}],
-    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Mountain"}, {"biome":"Hill"}, {"biome":"Grassland"}],
-    [{"biome":"Grassland"}, {"biome":"Hill"}, {"biome":"Hill"}, {"biome":"Hill"}, {"biome":"Sea"}, {"biome":"Sea"}],
-    [{"biome":"Grassland"}, {"biome":"Grassland"}, {"biome":"Grassland"}, {"biome":"Sea"}, {"biome":"Sea"}]
+  "map" : [
+    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}],
+    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}],
+    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Mountain"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Grassland"}}],
+    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Hill"}}, {"biome":{"name":"Sea"}}, {"biome":{"name":"Sea"}}],
+    [{"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Grassland"}}, {"biome":{"name":"Sea"}}, {"biome":{"name":"Sea"}}]
   ]
 }
